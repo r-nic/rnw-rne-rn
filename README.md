@@ -12,6 +12,15 @@ We hope this repository supports for you to use React Native for Web quickly.
 
 If you would like to use this template, you can use it git clone command or downloading zip file from this GitHub page.
 
+### How to run on local web server
+
+```
+$ yarn start-web
+```
+
+Currently, you can only run on local web server, no build commands.
+
+
 ### CAUTION
 
 This repository is just a git repository. So you should remove .git directory if you start your own project. Otherwise, you will succeed this git history. 
